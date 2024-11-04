@@ -1,5 +1,5 @@
 <?php
- $server = SERVER;
+  $server = SERVER;
   $userid = USERID;
   $pw = PWD;
   $db = DB;
